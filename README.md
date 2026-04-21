@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This project predicts bike rental demand using historical time-series data to help optimize inventory management.
+This project predicts bike rental demand using historical time series data to help optimize inventory management.
 
 ## Approach
 
